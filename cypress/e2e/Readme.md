@@ -5,7 +5,7 @@ Node.js (version 12 or higher) Cypress (installed via npm) Git (for cloning the 
 
 Setup Steps
 
-Clone the Repository Clone the required repository by running the following command: git clone https://github.com/Sravani-34/demotest.git
+Clone the Repository Clone the required repository by running the following command: git clone https://github.com/Sravani-34/DemotestfireAssignment.git
 
 Install Cypress Install Cypress via the Node Package Manager (npm) using the following command: npm install cypress --save-dev
 
